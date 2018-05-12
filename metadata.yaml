@@ -1,0 +1,39 @@
+_repo: The-Fifth-Ace_23885
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gage, George W.
+    alias: Gage, G. W.
+    gutenberg_agent_id: '32544'
+    url: http://www.gutenberg.org/2009/agents/32544
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ostrander, Isabel
+    aliases:
+    - Fox, David
+    - Chipperfield, Robert Orr
+    - Grant, Douglas
+    - Ostrander, Isabel Egenton
+    birthdate: 1883
+    deathdate: 1924
+    gutenberg_agent_id: '33851'
+    url: http://www.gutenberg.org/2009/agents/33851
+    wikipedia: http://en.wikipedia.org/wiki/Isabel_Ostrander
+description: ''
+gutenberg_issued: '2007-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23885'
+  lccn: '18012303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: The Fifth Ace
+url: http://www.gutenberg.org/ebooks/23885
